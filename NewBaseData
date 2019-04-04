@@ -1,0 +1,20 @@
+{ 
+  "recipe" : [
+   {
+      "title" : "최고의요리비결",
+      "fbNativeInterval" : "5",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "http://m.ebs.co.kr/cook",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "19357942",
+      "item":[{"id":"10010344475","title":"4월 5일 (금) 이혜정의 춘권"}]
+    }   
+  ]
+}
