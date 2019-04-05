@@ -3,7 +3,7 @@
    {
       "title" : "최고의요리비결",
       "fbNativeInterval" : "6",
-      "fbNativeReload" : "true",
+      "fbNativeReload" : "false",
       "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
