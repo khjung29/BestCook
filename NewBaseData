@@ -2,7 +2,7 @@
   "recipe" : [
    {
       "title" : "최고의요리비결",
-      "fbNativeInterval" : "5",
+      "fbNativeInterval" : "6",
       "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
@@ -14,7 +14,7 @@
       "url" : "http://m.ebs.co.kr/cook",
       "searchUrl" : "http://m.post.naver.com/search/authorPost/",
       "postId" : "19357942",
-      "item":[{"id":"10010344475","title":"4월 5일 (금) 이혜정의 춘권"}]
+      "item":[{"id":"","title":""}]
     }   
   ]
 }
