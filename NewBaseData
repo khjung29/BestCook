@@ -11,9 +11,10 @@
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
-      "url" : "http://m.ebs.co.kr/cook",
-      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
-      "postId" : "19357942",
+      "url" : "http://home.ebs.co.kr/cook/function/",
+      "searchUrl" : "http://home.ebs.co.kr/cook/function/",
+      "postId" : "500514",
+      "pagePstFig" : "10",
       "item":[{"id":"","title":""}]
     }   
   ]
