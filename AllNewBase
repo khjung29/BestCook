@@ -1,0 +1,26 @@
+{ 
+  "recipe" : [
+   {
+      "title" : "최고의요리비결",
+      "fbNativeInterval" : "6",
+      "fbNativeReload" : "false",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "https://home.ebs.co.kr/cook/function/",
+      "searchUrl" : "https://home.ebs.co.kr/cook/function/",
+      "postId" : "500514",
+      "pagePstFig" : "10",
+      "itemList" : [
+        { "title" : "전체", "id" : "1", "img" : "", "sort" : "1"},
+        { "title" : "간단", "id" : "2", "img" : "", "sort" : "2"},
+        { "title" : "즐겨찾기", "id" : "3", "img" : "", "sort" : "3"}
+        ]
+    }   
+  ]
+}
